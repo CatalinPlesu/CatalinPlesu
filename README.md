@@ -56,9 +56,5 @@ Windows                  2 hrs               ██░░░░░░░░░�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Catalinhimself/Catalinhimself/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
