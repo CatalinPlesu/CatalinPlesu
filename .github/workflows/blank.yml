@@ -18,3 +18,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+           
+          
