@@ -2,6 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
+    - cron: '30 17 * * *'
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
