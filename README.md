@@ -18,6 +18,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
 ![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
