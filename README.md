@@ -75,4 +75,4 @@ Linux                    5 hrs 57 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catalinhimself&theme=nord" alt="catalinhimself" /></p>
+
