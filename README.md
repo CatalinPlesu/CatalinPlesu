@@ -1,3 +1,4 @@
+<!--
 ```json
 {
   "languages": ["javascript", "c", "python"],
@@ -9,7 +10,7 @@
   "editors": ["vs code", "vim"]
 }
 ```
-
+-->
 ![](./monkey.png)
 
 <p>
