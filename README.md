@@ -3,6 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 03 July, 2021 - 09 July, 2021
+
 Ruby       17 hrs 26 mins  █████████████████░░░░░░░░   67.51 % 
 Markdown   3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Other      1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
