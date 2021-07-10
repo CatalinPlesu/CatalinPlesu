@@ -1,6 +1,6 @@
 ## catalinhimself [telegram](https://t.me/catalinhimself) 
 ![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
-
+![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
 <!--START_SECTION:waka-->
 ```text
 Ruby       17 hrs 26 mins  █████████████████░░░░░░░░   67.51 % 
