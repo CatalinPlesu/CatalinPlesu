@@ -3,10 +3,10 @@
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
 <!--START_SECTION:waka-->
 ```text
-Ruby       17 hrs 26 mins  █████████████████░░░░░░░░   67.51 % 
-Markdown   3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Other      1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-VimL       55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Python     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Ruby       20 hrs 29 mins  █████████████████▓░░░░░░░   70.62 % 
+Markdown   3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Other      2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+VimL       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
