@@ -11,10 +11,7 @@ Python     39 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=catalinhimself&count_private=true&show_icons=true&theme=calm" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinhimself&theme=calm" />
-</a>
-gg
