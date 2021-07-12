@@ -15,3 +15,5 @@ Python     39 mins         ▓░░░░░░░░░░░░░░░░�
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=catalinhimself&count_private=true&show_icons=true&theme=calm" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinhimself&theme=calm" />
+  
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself)
