@@ -1,7 +1,5 @@
-## catalinhimself [telegram](https://t.me/catalinhimself) 
+## Catalin => [telegram](https://t.me/catalinhimself) 
 ![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
----
-![visitors](https://visitor-badge.glitch.me/badge?page_id=catalinhimself.catalinhimself)
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
 
 <!--START_SECTION:waka-->
@@ -16,9 +14,9 @@ VimL       5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
+![](https://github-readme-stats.vercel.app/api?username=catalinhimself&count_private=true&show_icons=true&theme=calm)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm)
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=catalinhimself&count_private=true&show_icons=true&theme=calm" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinhimself&theme=calm" />
   
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm)
+
+
