@@ -1,6 +1,8 @@
 ## catalinhimself [telegram](https://t.me/catalinhimself) 
 ![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
+![visitors](https://visitor-badge.glitch.me/badge?page_id=catalinhimself.catalinhimself)
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 11 July, 2021 - 17 July, 2021
