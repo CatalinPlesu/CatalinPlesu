@@ -16,4 +16,4 @@ VimL       5 mins          ▒░░░░░░░░░░░░░░░░�
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinhimself&theme=calm" />
   
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself)
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm)
