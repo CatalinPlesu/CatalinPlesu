@@ -1,7 +1,8 @@
 ## Catalin => [telegram](https://t.me/catalinhimself) 
 ![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
+<!--
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
-
+-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
