@@ -9,6 +9,7 @@
 ### Programming
 🥇 **Better than Vasea and Costea** - python
 
+-----
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
