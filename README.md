@@ -1,5 +1,9 @@
-## Catalin :: [telegram](https://t.me/catalinhimself) 
-![](https://www.codewars.com/users/Catalinhimself/badges/micro) CODEWARS
+## About me
+[Catalin](https://t.me/catalinhimself) 
+
+CODEWARS
+
+![](https://www.codewars.com/users/Catalinhimself/badges/micro) 
 
 <!--
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
