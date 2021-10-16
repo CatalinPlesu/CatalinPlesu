@@ -5,9 +5,7 @@
 ## About me
 [Catalin](https://t.me/catalinhimself) 
 
-CODEWARS
-
-![](https://www.codewars.com/users/Catalinhimself/badges/micro) 
+[![](https://www.codewars.com/users/Catalinhimself/badges/large)](https://www.codewars.com/users/Catalinhimself)
 
 ## Skills
 ### Programming
