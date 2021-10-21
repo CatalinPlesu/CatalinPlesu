@@ -9,7 +9,7 @@
 
 code wars             |  type racer
 :-------------------------:|:-------------------------:
-[![](https://www.codewars.com/users/Catalinhimself/badges/large)](https://www.codewars.com/users/Catalinhimself)  |  [![](https://data.typeracer.com/misc/badge?user=catalinhimself)](https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge)
+[![](https://www.codewars.com/users/Catalinhimself/badges/micro)](https://www.codewars.com/users/Catalinhimself)  |  [![](https://data.typeracer.com/misc/badge?user=catalinhimself)](https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge)
 
 
 ## Skills
