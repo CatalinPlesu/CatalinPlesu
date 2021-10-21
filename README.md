@@ -7,6 +7,8 @@
 
 [![](https://www.codewars.com/users/Catalinhimself/badges/large)](https://www.codewars.com/users/Catalinhimself)
 
+<a href="https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=catalinhimself" border="0" alt="TypeRacer.com scorecard for user catalinhimself"/></a>
+
 ## Skills
 ### Programming
 🥇 **Better than Vasea and Costea** - python
