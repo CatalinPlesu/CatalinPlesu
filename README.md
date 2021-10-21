@@ -1,13 +1,16 @@
+# Konichiwa
 ![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)
 
 ---
 
 ## About me
-[Catalin](https://t.me/catalinhimself) 
+[Catalin - telegram](https://t.me/catalinhimself) 
 
-[![](https://www.codewars.com/users/Catalinhimself/badges/large)](https://www.codewars.com/users/Catalinhimself)
 
-<a href="https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=catalinhimself" border="0" alt="TypeRacer.com scorecard for user catalinhimself"/></a>
+code wars             |  type racer
+:-------------------------:|:-------------------------:
+[![](https://www.codewars.com/users/Catalinhimself/badges/large)](https://www.codewars.com/users/Catalinhimself)  |  [![](https://data.typeracer.com/misc/badge?user=catalinhimself)](https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge)
+
 
 ## Skills
 ### Programming
