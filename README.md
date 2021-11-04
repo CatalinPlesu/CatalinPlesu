@@ -11,6 +11,12 @@ code wars             |  type racer
 :-------------------------:|:-------------------------:
 [![](https://www.codewars.com/users/Catalinhimself/badges/micro)](https://www.codewars.com/users/Catalinhimself)  |  [![](https://data.typeracer.com/misc/badge?user=catalinhimself)](https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ## Skills
 ### Programming
