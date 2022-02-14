@@ -18,13 +18,9 @@
 
 
 
-## About me: [Cătălin - telegram](https://t.me/catalinhimself) 
-
-
-
-
-[![](https://www.codewars.com/users/Catalinhimself/badges/micro)](https://www.codewars.com/users/Catalinhimself)  |  [![](https://data.typeracer.com/misc/badge?user=catalinhimself)](https://data.typeracer.com/pit/profile?user=catalinhimself&ref=badge)
-:-------------------------:|:-------------------------:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/catalinhimself) 
+[![](https://www.codewars.com/users/Catalinhimself/badges/micro)](https://www.codewars.com/users/Catalinhimself)
+![typeracer](https://img.shields.io/badge/typeracer_73WPM-2596be?style=for-the-badge)
 
 ## Skills
 - Joggling
