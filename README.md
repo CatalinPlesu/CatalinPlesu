@@ -1,4 +1,3 @@
-# Konichiwa
 <!--![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)-->
 
 ---
