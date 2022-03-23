@@ -49,7 +49,7 @@ Linux                    7 hrs 50 mins       ███████████�
  Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm&layout=compact)
 
   
 
