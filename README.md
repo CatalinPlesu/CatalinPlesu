@@ -17,5 +17,28 @@ I'm Cătălin Pleșu, a student at TUM.
 [<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=catalinplesu&theme=calm&show_icons=true">](https://metrics.lecoq.io/catalinplesu#gh-dark-mode-only)
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2034%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      9 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.59% 
+Rust                     6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   30.87% 
+conf                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+Lua                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+
+🔥 Editors: 
+Neovim                   20 hrs 6 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    20 hrs 6 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 05/05/2022 13:49:23 UTC
 <!--END_SECTION:waka-->
