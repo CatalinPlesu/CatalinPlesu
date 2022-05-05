@@ -11,8 +11,8 @@ I'm Cătălin Pleșu, a student at TUM.
 -   :man_scientist: [ISTP](https://www.16personalities.com/istp-personality) personality
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything on [Telegram](https://t.me/catalinplesu)!
--   ⌨️: ≈70 WMP
--   👨‍💻: [CodeWars](https://www.codewars.com/users/Catalinhimself)
+-   ⌨️ ≈70 WMP
+-   👨‍💻 [CodeWars](https://www.codewars.com/users/Catalinhimself)
 
 [<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=catalinplesu&theme=calm&show_icons=true">](https://metrics.lecoq.io/catalinplesu#gh-dark-mode-only)
  
