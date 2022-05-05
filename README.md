@@ -1,4 +1,9 @@
 <!--![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)-->
+
+<a href="https://github.com/RaoHai/RaoHai/actions">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm&layout=compact&langs_count=20" />
+</a>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -13,15 +18,10 @@
 
 
 
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/catalinplesu) 
 [![](https://www.codewars.com/users/Catalinhimself/badges/micro)](https://www.codewars.com/users/Catalinhimself)
 ![typeracer](https://img.shields.io/badge/typeracer_73WPM-2596be?style=for-the-badge)
 
-## Skills
-- Joggling
-
------
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -46,9 +46,5 @@ Linux                    20 hrs 6 mins       ███████████�
 
  Last Updated on 05/05/2022 00:54:58 UTC
 <!--END_SECTION:waka-->
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm&layout=compact)
-
-  
 
 
