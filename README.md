@@ -19,7 +19,7 @@ I'm Cătălin Pleșu, a student at TUM.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,5 +42,5 @@ Windows                  1 hr 20 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 19/05/2022 01:01:26 UTC
+ Last Updated on 20/05/2022 00:55:06 UTC
 <!--END_SECTION:waka-->
