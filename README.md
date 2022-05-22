@@ -1,9 +1,5 @@
 <!--![](https://github.com/Catalinhimself/Catalinhimself/blob/main/Sakura_Nene_CPP.jpg)-->
 
-<a href="https://github.com/RaoHai/RaoHai/actions">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=catalinhimself&theme=calm&layout=compact&langs_count=20" />
-</a>
- 
 I'm Cătălin Pleșu, a student at TUM.
 
 -   :hammer_and_pick: Rust / Python / C++ / C / C# / JavaScript / Ruby 
